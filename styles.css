@@ -1,0 +1,43 @@
+ @import url('https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+
+h1{
+    margin: 0px 10px 0px 10px;
+    font-family: 'Supermercado One';
+    float: left;
+}
+
+.menu li{
+    color: white;
+    text-decoration: none;
+    font-family: 'Varela Round';
+    width: auto;
+    display: inline;
+    float: left;
+}
+
+.menu li.active{
+    background-color:blue;
+}
+
+.menu li a{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    display: block;
+}
+
+.menu li:hover{
+    background-color: black;
+}
+
+.menu li.active:hover{
+    background-color: mediumblue;
+}
+
+.menu{
+    background-color: #333;
+    overflow: hidden;
+    padding: 0;
+    border-radius: 10px;
+}
