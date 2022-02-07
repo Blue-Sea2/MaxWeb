@@ -3,4 +3,10 @@ textarea {
 	width: 100%;
 	border-color: blue;
 	border: 5px;
+	color: white;
+}
+
+button{
+	height:40px;
+	background-color: #008CBA;
 }
