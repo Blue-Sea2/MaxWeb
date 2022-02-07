@@ -1,4 +1,6 @@
 textarea {
 	background-color: #333;
 	width: 100%;
+	border-color: blue;
+	border: 5px;
 }
