@@ -1,9 +1,8 @@
- @import url('https://fonts.googleapis.com/css2?family=Supermercado+One&display=swap');
- @import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rowdies&family=Varela+Round&display=swap');
 
 h1{
     margin: 0px 10px 0px 10px;
-    font-family: 'Supermercado One';
+    font-family: 'Rowdies';
     float: left;
 }
 
